@@ -1,7 +1,7 @@
 {
   "format": 1,
   "campaign": "Archives of the Chrono-Core",
-  "generatedAt": "2026-07-27T15:32:25.764Z",
+  "generatedAt": "2026-07-27T16:07:05.024Z",
   "kdf": {
     "name": "PBKDF2",
     "hash": "SHA-256",
