@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "campaign": "Archives of the Chrono-Core",
+  "generatedAt": "2026-07-27T11:56:24.275Z",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 150000,
+    "keyLen": 32
+  },
+  "cipher": "AES-256-GCM",
+  "bundleKey": "sha256(lowercased-username)"
+}
